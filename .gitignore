@@ -1,5 +1,6 @@
-# En GitHub solo va practicas/
+# En GitHub solo va practicas/ y README
 /*
 !.gitignore
+!README.md
 !/practicas
 !/practicas/**

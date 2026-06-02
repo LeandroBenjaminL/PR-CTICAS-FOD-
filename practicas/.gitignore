@@ -18,3 +18,7 @@ juan
 
 # Enunciados PDF (keep local)
 *.pdf
+
+# Pi / ATL local config
+.pi/
+.atl/

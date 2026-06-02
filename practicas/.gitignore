@@ -1,0 +1,20 @@
+# Compiled binaries
+*.o
+*.ppu
+*.exe
+*.app
+ejercicio*[0-9]
+!ejercicio*[0-9].pas
+
+# Temp / test data
+*~
+*.bak
+*.tmp
+pepe
+juan
+
+# Windows zone identifier
+*:Zone.Identifier
+
+# Enunciados PDF (keep local)
+*.pdf
